@@ -1,4 +1,4 @@
 server:
   port: 8888
 message:
-  hello: Hola Pepito!!
+  hello: Hola Pepito - dev!!
